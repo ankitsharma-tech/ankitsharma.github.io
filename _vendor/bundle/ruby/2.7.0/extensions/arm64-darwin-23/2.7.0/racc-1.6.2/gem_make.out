@@ -1,0 +1,20 @@
+current directory: /Users/ankitsharma/Documents/GitHub/resume-template/_vendor/bundle/ruby/2.7.0/gems/racc-1.6.2/ext/racc/cparse
+/Users/ankitsharma/.rbenv/versions/2.7.7/bin/ruby -I /Users/ankitsharma/.rbenv/versions/2.7.7/lib/ruby/2.7.0 -r ./siteconf20241007-49760-19gff0j.rb extconf.rb
+checking for rb_block_call()... yes
+checking for rb_ary_subseq()... yes
+creating Makefile
+
+current directory: /Users/ankitsharma/Documents/GitHub/resume-template/_vendor/bundle/ruby/2.7.0/gems/racc-1.6.2/ext/racc/cparse
+make "DESTDIR=" clean
+
+current directory: /Users/ankitsharma/Documents/GitHub/resume-template/_vendor/bundle/ruby/2.7.0/gems/racc-1.6.2/ext/racc/cparse
+make "DESTDIR="
+compiling cparse.c
+linking shared-object racc/cparse.bundle
+ld: warning: -multiply_defined is obsolete
+ld: warning: -multiply_defined is obsolete
+ld: warning: ignoring duplicate libraries: '-lruby.2.7'
+
+current directory: /Users/ankitsharma/Documents/GitHub/resume-template/_vendor/bundle/ruby/2.7.0/gems/racc-1.6.2/ext/racc/cparse
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cparse.bundle ./.gem.20241007-49760-1mvuhie/racc

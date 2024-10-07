@@ -1,0 +1,31 @@
+# Associations
+# comment out the urls if you do not wish to display them
+
+- organization: IEEE
+  role: Member
+  year: 2015 &mdash; Present
+  url: https://www.ieee.org/
+  summary: Active member of IEEE, participating in conferences and contributing to research in machine learning and AI.
+
+- organization: ACM
+  role: Member
+  year: 2016 &mdash; Present
+  url: https://www.acm.org/
+  summary: Engaged in ACM activities, focusing on advancements in computer science and technology.
+
+- organization: Qiskit Developer, IBM
+  role: Developer
+  year: 2021 &mdash; Present
+  url: https://qiskit.org/
+  summary: Contributing to the development and improvement of quantum computing algorithms using Qiskit framework.
+
+- organization: IIT Delhi
+  role: Quantum Computing and Machine Learning Continuing Education Programme
+  year: 2020 &mdash; 2021
+  summary: Completed the quantum computing and machine learning education programme at IIT Delhi.
+
+- organization: IIT Kanpur
+  role: Blockchain Continuing Education Programme
+  year: 2019 &mdash; 2020
+  summary: Participated in continuing education for blockchain technologies and their applications.
+

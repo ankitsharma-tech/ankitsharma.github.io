@@ -1,0 +1,33 @@
+# Staff Developer Gen AI
+  - title: Staff Developer Gen AI
+    company: Loblaw Digital
+    duration: Apr 24 – Present
+    summary: >
+      Spearheaded the development of the GARFIELLD platform, incorporating multiple tools used by over 10k monthly active users.
+      Led chatbot development that increased user engagement by 75% and reduced computational costs by 20%, saving $1.5M annually.
+      Improved system efficiency by 35% using multi-agent systems and deployed Mixture of Experts model, resulting in a 50% faster response time.
+      Integrated Tree of Thoughts prompting, boosting accuracy by 20%, driving customer behavior insights and marketing campaign effectiveness.
+
+  - title: Senior Developer
+    company: Loblaw Digital
+    duration: Oct 22 – Apr 24
+    summary: >
+      Developed and deployed a comprehensive Single Sign-On (SSO) solution for 20 million users, with over 10M monthly active users.
+      Led the integration of LLMs and stable diffusion technologies for advanced AI solutions, boosting system reliability by 30% and ensuring 99.9% SLA compliance.
+      Achieved a 60% improvement in operational efficiency by designing a scalable AI system using Kubernetes.
+
+  - title: Senior Technical Lead, Co-Founder
+    company: Seehash Softwares Pvt. Ltd.
+    duration: Jan 16 – Sep 22
+    summary: >
+      Directed the development of ML, DL, and NLP applications that improved system performance by 40%.
+      Led a team to achieve a 90% on-time delivery rate, improving efficiency through better project management.
+      Reduced data processing time by 25% through implementation of advanced ML algorithms and optimized data sets.
+
+  - title: Fullstack Developer
+    company: Fractals
+    duration: Aug 12 – Dec 15
+    summary: >
+      Deployed 12 predictive models processing over 3TB of data, improving prediction accuracy by 20%.
+      Reduced data processing times by 25% using advanced ML algorithms such as SVM and Random Forest.
+      Delivered server-side and client-side architecture for high-traffic applications, handling over 500k daily transactions.

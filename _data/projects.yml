@@ -1,0 +1,53 @@
+
+  - project: GARFIELLD Platform
+    role: Developer
+    duration: 
+    description: >
+      An advanced chat-based platform leveraging Transformers, real-time web socket streaming, multi modality, and support for PDF and image uploads.
+      - Amplified user engagement by 75% through real-time chat features and multimodal capabilities.
+      - Refined data processing and retrieval accuracy by 20% with advanced AI models and multi-agent systems.
+      - Integrated 5 large language models (LLMs) with 10 distinct data sources to enhance data processing.
+
+  - project: GARFIELLD Insights
+    role: Developer
+    duration: 
+    description: >
+      An AI data analysis tool using Pandas AI, multi-agent systems, and vector data to provide comprehensive data insights.
+      - Improved data accessibility by 40% through real-time data extraction and summarization from BigQuery using Pandas AI.
+      - Built a knowledge graph using Neo4j, enhancing relational data management and query efficiency by 50%.
+
+  - project: DTA One Tool
+    role: Developer
+    duration: 
+    description: >
+      A predictive analytics tool developed for Daimler AG, helping track growth metrics and achieve operational goals.
+      - Improved growth metric prediction accuracy by 20% and operational efficiency by 15%.
+
+  - project: Corporate Performance System
+    role: Developer
+    duration: 
+    description: >
+      A hybrid data analytics solution for Daimler India Op-Com members, integrating ETL, DW, and Power BI.
+      - Streamed data from over 20 sources using Apache KAFKA, improving data streaming efficiency by 35%.
+      - Reduced latency by 25% and enabled real-time analytics and reporting.
+
+  - project: SSO SDK Solution
+    role: Developer
+    duration: 
+    description: >
+      A Single Sign-On (SSO) solution used by 20M users across apps like PC Optimum, Shoppers Drug Mart, and PC Express.
+      - Improved customer satisfaction by 30% and maintained 99.9% SLA compliance.
+
+  - project: RUDI Autonomous Drone
+    role: Developer
+    duration: 
+    description: >
+      An autonomous drone application utilizing VSLAM to traverse inside warehouses.
+      - Improved inventory accuracy by 65% and reduced manual tracking efforts, leading to significant cost savings.
+
+  - project: 3D Product Configurator
+    role: Developer
+    duration: 
+    description: >
+      The world's first 3D Truck Configurator with synchronous loading of 3D assets.
+      - Reduced loading time to a few seconds and improved customer satisfaction by 85%.

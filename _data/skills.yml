@@ -1,0 +1,19 @@
+# Programming Languages
+- skill: Programming Languages
+  description: Python, C, C++, Java, Rust, Node, GO
+
+# Machine Learning and AI
+- skill: Machine Learning and AI
+  description: Deep Learning, NLP, Computer Vision, Reinforcement Learning, Generative AI, TensorFlow, Scikit-learn, PyTorch, MLOps
+
+# Data Management and Analysis
+- skill: Data Management and Analysis
+  description: Data Analysis, Big Data, Data Streaming, Data Integrity
+
+# Databases
+- skill: Databases
+  description: MySQL, PostgreSQL, Redis, Elastic, Cassandra, Neo4j
+
+# Technologies and Frameworks
+- skill: Technologies and Frameworks
+  description: TensorFlow, PyTorch, Docker, Scikit-learn, OpenCV, Hadoop
